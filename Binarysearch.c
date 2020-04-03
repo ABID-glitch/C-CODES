@@ -1,7 +1,7 @@
 #include<stdio.h>
 void bin_search(int L[],int N,int item);
 int main(){
-    int A[]={3,54,33,46,8,75,88};
+    int A[]={3,23,34,44,68,75,88};
     int item=88;
     bin_search(A,7,item);
 }
