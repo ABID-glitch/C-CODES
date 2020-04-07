@@ -1,5 +1,4 @@
-#include<iostream>
-using namespace std;
+#include<stdio.h>
 int dec_binary(int n);
 int main(){
     int n;
